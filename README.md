@@ -6,7 +6,6 @@ Chinook is a sample database that simulates a digital media store. Derived from 
 This project's instructions were sourced from this link:
 [https://www.sqlitetutorial.net/sqlite-sample-database/](https://www.sqlitetutorial.net/sqlite-sample-database/)
 
-<br/>
 
 ### Contents
 [ER Diagram](#er-diagram) <br/>
