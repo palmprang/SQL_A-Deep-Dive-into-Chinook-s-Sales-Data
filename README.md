@@ -34,12 +34,14 @@ This project's instructions were sourced from this link:
 - Which countries have the highest number of customers and total sales? <br/>
 - Are there any patterns in customer purchasing behavior (e.g., buying multiple albums by the same artist, purchasing tracks in bundles)? <br/>
 <br/>
+
 #### Product Analysis and Performance
 - What are the top-selling genres and artists? <br/>
 - What is the average length of tracks? <br/>
 - How does the price of a track affect its sales? <br/>
 - What is the average selling price of different product categories? <br/>
 <br/>
+
 #### Analyzing Employee Performance
 - Which employees have the highest total sales? <br/>
 - Are there any differences in sales performance between employees in different regions? <br/>
