@@ -18,12 +18,19 @@ This project's instructions were sourced from this link:
 ![sqlite-sample-database-color](https://github.com/user-attachments/assets/294fd8c0-5ed7-4a08-b405-dd650ebd4fe6)
 
 
-| Table                      | Description                                |
-| -------------------------  | ------------------------------------------ |
-| villageid                  | Specific ID of each village                |
-| name                       | Village name                               |
-| chief                      | Person ID of the chief for each village    |
-
+| Table                      | Description                                                                            |
+| -------------------------  | -------------------------------------------------------------------------------------- |
+| media_types                | table stores media types such as MPEG audio and AAC audio files.                       |
+| genres                     | table stores music types such as rock, jazz, metal, etc.                               |
+| playlists                  | table stores data about playlists.                                                     |
+| playlist_track             | table is used to reflect relationship between playlist and track as a bridge table     |
+| tracks                     | table stores the data of songs. Each track belongs to one album.                       |
+| artists                    | table stores artist data. It is a simple table that contains the id and name.          |
+| invoices                   | table stores invoice header data of invoice.                                           |
+| invoice_items              | table stores the invoice line items data.                                              |
+| albums                     | table stores data about a list of tracks                                               |
+| customers                  | table stores customer data.                                                            |
+| employees                  | table stores employee data such as id, last name, first name, etc.                     |
 
 
 <br/>
