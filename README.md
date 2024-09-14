@@ -23,7 +23,7 @@ This project's instructions were sourced from this link:
 | media_types                | table stores media types such as MPEG audio and AAC audio files.                       |
 | genres                     | table stores music types such as rock, jazz, metal, etc.                               |
 | playlists                  | table stores data about playlists.                                                     |
-| playlist_track             | table is used to reflect relationship between playlist and track as a bridge table     |
+| playlist_track             | table is used to reflect relationship between playlist and track as a bridge table.    |
 | tracks                     | table stores the data of songs. Each track belongs to one album.                       |
 | artists                    | table stores artist data. It is a simple table that contains the id and name.          |
 | invoices                   | table stores invoice header data of invoice.                                           |
