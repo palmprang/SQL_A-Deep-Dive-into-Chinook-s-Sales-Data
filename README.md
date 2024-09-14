@@ -12,8 +12,6 @@ This project's instructions were sourced from this link:
 [Business Question](#business-question) <br/>
 [Business Recommendations](#business-recommendations) <br/>
 
-<br/>
-
 
 ## ER Diagram
 
