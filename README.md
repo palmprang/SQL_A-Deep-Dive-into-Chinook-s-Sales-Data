@@ -39,7 +39,6 @@ This project's instructions were sourced from this link:
 #### Understanding Customer Segmentation and Behavior
 - Which customer segments generatethe most revenue? <br/>
 - Which countries have the highest number of customers and total sales? <br/>
-- Are there any patterns in customer purchasing behavior (e.g., buying multiple albums by the same artist, purchasing tracks in bundles)? <br/>
 
 
 #### Product Analysis and Performance
