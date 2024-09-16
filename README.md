@@ -10,7 +10,6 @@ This project's instructions were sourced from this link:
 ### Contents
 [ER Diagram](#er-diagram) <br/>
 [Business Question](#business-question) <br/>
-[Business Recommendations](#business-recommendations) <br/>
 
 
 ## ER Diagram
@@ -52,9 +51,6 @@ This project's instructions were sourced from this link:
 
 <br/>
 
-## Business Recommendations
-
-After analyzing using SQL queries, 
 
 
 
